@@ -1,6 +1,0 @@
-# Importa el modulo HttpResponse de Django
-from django.htt import HttpResponse
-
-# Define una funcion de visita que devuelve "Hola Mundo"
-def hola_mundo(request):
-    return HttpResponse("Hola Mundo!")
